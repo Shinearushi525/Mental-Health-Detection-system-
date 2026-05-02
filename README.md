@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Mental Health AI Analysis System
+# 🧠 Mental Health Detection system
 
 <br/>
 
