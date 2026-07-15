@@ -1,0 +1,7 @@
+streamlit>=1.38,<2
+scikit-learn>=1.5,<1.6
+scipy>=1.13,<1.14
+numpy>=1.26,<2
+nltk>=3.9,<4
+textblob>=0.18,<0.19
+pillow>=11.0

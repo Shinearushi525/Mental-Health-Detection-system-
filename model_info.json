@@ -1,0 +1,36 @@
+{
+  "best_model": "Linear SVM",
+  "accuracy": 73.45,
+  "macro_f1": 69.84,
+  "weighted_f1": 73.15,
+  "n_posts": 52681,
+  "labels": [
+    "Anxiety",
+    "Bipolar",
+    "Depression",
+    "Normal",
+    "Personality disorder",
+    "Stress",
+    "Suicidal"
+  ],
+  "all_results": [
+    {
+      "Model": "Linear SVM",
+      "Accuracy": 0.7344595235835627,
+      "Macro F1": 0.6984123441562102,
+      "Weighted F1": 0.7314523456169059
+    },
+    {
+      "Model": "Naive Bayes",
+      "Accuracy": 0.6869127835247224,
+      "Macro F1": 0.6116785398829193,
+      "Weighted F1": 0.683859580042532
+    },
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.47594191895226345,
+      "Macro F1": 0.3313041539085946,
+      "Weighted F1": 0.454959866086394
+    }
+  ]
+}
