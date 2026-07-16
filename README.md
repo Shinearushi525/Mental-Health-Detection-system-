@@ -64,8 +64,10 @@ People pour their genuine feelings into social media posts **before ever speakin
 > *This is not just a machine learning project. It's a tool that could save lives.*
 
 ---
-## 🎥 Demo Video
-   [Watch the demo]([https://youtu.be/xxxxxxxxxxx)](https://drive.google.com/file/d/1O47hoLXOmntbSZJ73CPrb4cbf5LRERJ6/view?usp=drive_link)
+## 🎥 Live Demo 
+🔗 Live Demo: [https://lnkd.in/gP3CKQX8]
+
+
 
 
  ---
